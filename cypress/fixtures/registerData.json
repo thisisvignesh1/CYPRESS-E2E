@@ -1,8 +1,8 @@
 {
-    "fistName": "Test",
-    "lastName": "QA",
-    "email": "test.qa@gmail.com",
-    "telephone": "1234567890",
-    "password": "Cypress@123"
+    "fistname": "Testing",
+    "lastname": "QAa",
+    "emailaddress": "teste.qa@gmail.com",
+    "telephonenumber": "1234567891",
+    "passwords": "Cypress@1234"
 
 }
